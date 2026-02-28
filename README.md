@@ -18,7 +18,3 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" /></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" /></code>
 <code><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" /></code>
-
-
-| <a href="https://github.com/kimberly327/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kimberly327&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/kimberly327/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimberly327&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
